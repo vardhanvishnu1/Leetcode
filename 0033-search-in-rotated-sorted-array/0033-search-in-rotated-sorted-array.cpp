@@ -9,6 +9,10 @@ public:
             if(nums[mid]==target){
                 return mid;
             }
+            if(nums[lo] == nums[mid] && nums[mid] == nums[hi]){
+                lo++;
+                hi--;
+            }
             else if(nums[lo]<=nums[mid]){
                 if(target>=nums[lo]&&target<=nums[mid]) hi = mid-1;
                 else lo = mid+1;
