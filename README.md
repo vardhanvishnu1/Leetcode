@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
 | ------- |
