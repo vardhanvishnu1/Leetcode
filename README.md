@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vardhanvishnu1/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vardhanvishnu1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vardhanvishnu1/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vardhanvishnu1/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vardhanvishnu1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
