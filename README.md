@@ -104,10 +104,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vardhanvishnu1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
