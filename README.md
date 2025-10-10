@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vardhanvishnu1/Leetcode/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0216-combination-sum-iii) |
