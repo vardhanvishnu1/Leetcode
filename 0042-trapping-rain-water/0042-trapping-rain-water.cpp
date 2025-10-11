@@ -6,7 +6,6 @@ public:
         int lmax = 0;
         int rmax = 0;
         int total = 0;
-        for(int i=0;i<height.size();i++){
             while(l<r){
                 if(height[l]<=height[r]){
                     if(lmax>height[l]){
@@ -23,7 +22,6 @@ public:
                     r--;
                 }
             }
-        }
         return total;
     }
 };
