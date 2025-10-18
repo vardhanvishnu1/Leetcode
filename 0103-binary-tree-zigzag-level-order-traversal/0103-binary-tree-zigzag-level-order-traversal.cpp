@@ -13,17 +13,22 @@ class Solution {
 public:
  void levelOrderTraversal(TreeNode* root,vector<vector<int>>&ans){
         queue<TreeNode*>q;
-        q.push(root);             
+        q.push(root); 
+        bool flag = true;
         while(!q.empty()){
-            vector<int>level;
             int size = q.size();
+            vector<int>level(size);
             for(int i=0;i<size;i++){
                 TreeNode* curr = q.front();
                 q.pop();
-                level.push_back(curr->val);
+                int idx;
+                if (flag) idx = i;
+                else idx = size - i - 1;
+                level[idx]=(curr->val);
                 if(curr->left) q.push(curr->left);
                 if(curr->right) q.push(curr->right);
             }
+            flag = !flag;
             ans.push_back(level);
         }
         return;
@@ -32,11 +37,6 @@ public:
         if(!root) return {};
         vector<vector<int>>ans;
         levelOrderTraversal(root,ans);
-        for(int i=0;i<ans.size();i++){
-            if(i&1){
-                reverse(ans[i].begin(),ans[i].end());
-            }
-        }
         return ans;
     }
 };
