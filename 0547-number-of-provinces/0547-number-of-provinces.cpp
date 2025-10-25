@@ -1,33 +1,25 @@
- 
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
-    void dfs(vector<vector<int>>& graph, vector<bool>& visited, int node) {
-        visited[node] = true;
-        int n = graph.size();
-        for (int neighbor = 0; neighbor < n; neighbor++) {
-            if (graph[node][neighbor] == 1 && !visited[neighbor]) {
-                dfs(graph, visited, neighbor);
+    void dfs(vector<vector<int>>& isConnected, vector<bool>& visited, int i) {
+        visited[i] = true;
+        for (int j = 0; j < isConnected.size(); j++) {
+            if (isConnected[i][j] == 1 && !visited[j]) {
+                dfs(isConnected, visited, j);
             }
         }
-    }
-
-    int countComponents(vector<vector<int>>& graph) {
-        int n = graph.size();
-        vector<bool> visited(n, false);
-        int components = 0;
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                dfs(graph, visited, i);
-                components++;
-            }
-        }
-        return components;
     }
 
     int findCircleNum(vector<vector<int>>& isConnected) {
-        return countComponents(isConnected);
+        int n = isConnected.size();
+        vector<bool> visited(n, false);
+        int ans = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) {
+                dfs(isConnected, visited, i);
+                ans++;
+            }
+        }
+        return ans;
     }
 };
