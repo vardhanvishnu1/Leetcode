@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vardhanvishnu1/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/vardhanvishnu1/Leetcode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0792-binary-search) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vardhanvishnu1/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/vardhanvishnu1/Leetcode/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vardhanvishnu1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vardhanvishnu1/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vardhanvishnu1/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0542-01-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vardhanvishnu1/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vardhanvishnu1/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
