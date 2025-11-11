@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vardhanvishnu1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanvishnu1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vardhanvishnu1/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
+| [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/vardhanvishnu1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vardhanvishnu1/Leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/vardhanvishnu1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vardhanvishnu1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vardhanvishnu1/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
