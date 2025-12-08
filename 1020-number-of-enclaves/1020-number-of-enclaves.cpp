@@ -16,7 +16,7 @@ public:
         vector<vector<bool>>visited(grid.size(),vector<bool>(grid[0].size(),false));
         for(int i=0;i<m;i++){
             if(visited[i][0]) continue;
-            if(grid[i][0]=='0') {continue;}
+            if(grid[i][0]==0) {continue;}
             else{
                 dfs(i,0,grid,visited);
             }
@@ -24,7 +24,7 @@ public:
         }
         for(int i=0;i<m;i++){
             if(visited[i][grid[i].size()-1]) continue;
-            if(grid[i][grid[i].size()-1]=='0') {continue;}
+            if(grid[i][grid[i].size()-1]==0) {continue;}
             else{
                 dfs(i,grid[i].size()-1,grid,visited);
             }
@@ -32,7 +32,7 @@ public:
         }
         for(int i=0;i<grid[0].size();i++){
             if(visited[0][i]) continue;
-            if(grid[0][i]=='0') {continue;}
+            if(grid[0][i]==0) {continue;}
             else{
                 dfs(0,i,grid,visited);
             }
@@ -40,7 +40,7 @@ public:
         }
         for(int i=0;i<grid[0].size();i++){
             if(visited[m-1][i]) continue;
-            if(grid[m-1][i]=='0') {continue;}
+            if(grid[m-1][i]==0) {continue;}
             else{
                 dfs(m-1,i,grid,visited);
             }
