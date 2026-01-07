@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/vardhanvishnu1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/vardhanvishnu1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0402-remove-k-digits) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vardhanvishnu1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/vardhanvishnu1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/vardhanvishnu1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/vardhanvishnu1/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
