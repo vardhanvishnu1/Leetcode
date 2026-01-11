@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/vardhanvishnu1/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/vardhanvishnu1/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vardhanvishnu1/Leetcode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vardhanvishnu1/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/vardhanvishnu1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0542-01-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0542-01-matrix) |
