@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vardhanvishnu1/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/vardhanvishnu1/Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/vardhanvishnu1/Leetcode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vardhanvishnu1/Leetcode/tree/master/0162-find-peak-element) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/vardhanvishnu1/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vardhanvishnu1/Leetcode/tree/master/0455-assign-cookies) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
