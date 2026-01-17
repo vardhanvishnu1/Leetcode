@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
 | [2050-count-good-numbers](https://github.com/vardhanvishnu1/Leetcode/tree/master/2050-count-good-numbers) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vardhanvishnu1/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vardhanvishnu1/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vardhanvishnu1/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Binary Search
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Geometry
+|  |
+| ------- |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vardhanvishnu1/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
