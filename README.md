@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vardhanvishnu1/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vardhanvishnu1/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vardhanvishnu1/Leetcode/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Quickselect
 |  |
 | ------- |
