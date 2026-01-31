@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vardhanvishnu1/Leetcode/tree/master/0547-number-of-provinces) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vardhanvishnu1/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
@@ -458,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/vardhanvishnu1/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vardhanvishnu1/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
