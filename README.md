@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3379-transformed-array) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vardhanvishnu1/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Binary Search
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Quickselect
 |  |
 | ------- |
