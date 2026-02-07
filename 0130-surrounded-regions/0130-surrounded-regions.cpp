@@ -1,53 +1,47 @@
 class Solution {
 public:
-
-    struct hashPair {
-        size_t operator()(const pair<int,int>& p) const {
-            return p.first * 31 + p.second;
-        }
-    };
-
-    void dfs(int i, int j,
-             vector<vector<char>>& board,
-             unordered_set<pair<int,int>, hashPair>& visited) {
-
-        int n = board.size();
-        int m = board[0].size();
-
-        if (i < 0 || j < 0 || i >= n || j >= m) return;
-        if (board[i][j] != 'O') return;
-        if (visited.count({i,j})) return;
-
-        visited.insert({i,j});
-
-        dfs(i+1, j, board, visited);
-        dfs(i-1, j, board, visited);
-        dfs(i, j+1, board, visited);
-        dfs(i, j-1, board, visited);
+    void dfs(int m,int n,int i,int j,vector<vector<char>>& board){
+        if(i<0||j<0||i>=m||j>=n) return;
+        board[i][j] = '#';
+        if(i+1<m&&board[i+1][j]=='O') dfs(m,n,i+1,j,board);
+        if(i-1>=0&&board[i-1][j]=='O') dfs(m,n,i-1,j,board);
+        if(j+1<n&&board[i][j+1]=='O') dfs(m,n,i,j+1,board);
+        if(j-1>=0&&board[i][j-1]=='O') dfs(m,n,i,j-1,board);
     }
-
     void solve(vector<vector<char>>& board) {
-
-        int n = board.size();
-        int m = board[0].size();
-
-        unordered_set<pair<int,int>, hashPair> visited;
-
-        // Step 1: Mark all 'O' connected to boundary
-        for (int i = 0; i < n; i++) {
-            if (board[i][0] == 'O') dfs(i, 0, board, visited);
-            if (board[i][m-1] == 'O') dfs(i, m-1, board, visited);
+        int m = board.size();
+        int n = board[0].size();
+        vector<vector<bool>>change(m,vector<bool>(n,true));
+        for(int i=0;i<m;i++){
+            if(board[i][0]=='O'){
+                board[i][0] = '#';
+                dfs(m,n,i,0,board);
+            }
+            if(board[i][n-1]=='O'){
+                board[i][n-1] = '#';
+                dfs(m,n,i,n-1,board);
+            }
         }
-        for (int j = 0; j < m; j++) {
-            if (board[0][j] == 'O') dfs(0, j, board, visited);
-            if (board[n-1][j] == 'O') dfs(n-1, j, board, visited);
+        for(int i=0;i<n;i++){
+            if(board[0][i]=='O'){
+                board[0][i] = '#';
+                dfs(m,n,0,i,board);
+            }
+            if(board[m-1][i]=='O'){
+                board[m-1][i] = '#';
+                dfs(m,n,m-1,i,board);
+            }
         }
-
-        // Step 2: Flip all 'O' not visited → 'X'
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (board[i][j] == 'O' && visited.count({i,j}) == 0) {
-                    board[i][j] = 'X';
+        for(int i=0;i<m;i++){
+            for(int j =0;j<n;j++){
+                if(board[i][j]=='X') continue;
+                else{
+                    if(board[i][j]=='#'){
+                        board[i][j] = 'O';
+                    }
+                    else{
+                        board[i][j] = 'X';
+                    }
                 }
             }
         }
