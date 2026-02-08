@@ -1,57 +1,43 @@
 class Solution {
 public:
-    void dfs(int i,int j,vector<vector<int>>& grid,vector<vector<bool>>&visited){
-        if(i<0||j<0||i>=grid.size()||j>=grid[i].size()||visited[i][j]) return;
-        visited[i][j] = true;
-        if(grid[i][j]==1){
-            grid[i][j]=0;
-        }
-        else{
-            return;
-        }
-        dfs(i+1,j,grid,visited);dfs(i-1,j,grid,visited);dfs(i,j+1,grid,visited);dfs(i,j-1,grid,visited);
-    }
+void dfs(int& count,int i,int j,int m,int n,vector<vector<int>>& grid){
+    if(i<0||j<0||i>=m||j>=n||grid[i][j]==0) return;
+    if(i!=0&&j!=0&&i!=m-1&&j!=n-1) {count--;}
+    grid[i][j]=0;
+    dfs(count,i+1,j,m,n,grid);
+    dfs(count,i-1,j,m,n,grid);
+    dfs(count,i,j+1,m,n,grid);
+    dfs(count,i,j-1,m,n,grid);
+}
     int numEnclaves(vector<vector<int>>& grid) {
         int m = grid.size();
-        vector<vector<bool>>visited(grid.size(),vector<bool>(grid[0].size(),false));
-        for(int i=0;i<m;i++){
-            if(visited[i][0]) continue;
-            if(grid[i][0]==0) {continue;}
-            else{
-                dfs(i,0,grid,visited);
+        int n = grid[0].size();
+        int count =0;
+        for(int i=1;i<m-1;i++){
+            for(int j=1;j<n-1;j++){
+                if(grid[i][j] == 1) count++;
             }
-            visited[i][0]=true;
+        }
+        for(int i=0;i<n;i++){
+           if(grid[0][i]==1){
+             
+                dfs(count,0,i,m,n,grid);
+           }
+           if(grid[m-1][i]==1){
+            
+                dfs(count,m-1,i,m,n,grid);
+           }
         }
         for(int i=0;i<m;i++){
-            if(visited[i][grid[i].size()-1]) continue;
-            if(grid[i][grid[i].size()-1]==0) {continue;}
-            else{
-                dfs(i,grid[i].size()-1,grid,visited);
-            }
-            visited[i][grid[i].size()-1]=true;
+           if(grid[i][0]==1){
+       
+                dfs(count,i,0,m,n,grid);
+           }
+           if(grid[i][n-1]==1){
+           
+                dfs(count,i,n-1,m,n,grid);
+           }
         }
-        for(int i=0;i<grid[0].size();i++){
-            if(visited[0][i]) continue;
-            if(grid[0][i]==0) {continue;}
-            else{
-                dfs(0,i,grid,visited);
-            }
-            visited[0][i]=true;
-        }
-        for(int i=0;i<grid[0].size();i++){
-            if(visited[m-1][i]) continue;
-            if(grid[m-1][i]==0) {continue;}
-            else{
-                dfs(m-1,i,grid,visited);
-            }
-            visited[m-1][i]=true;
-        }
-        int ans = 0;
-        for(int i=0;i<m;i++){
-            for(int j =0;j<grid[i].size();j++){
-                if(grid[i][j]==1) ans++;
-            }
-        }
-        return ans;
+        return count;
     }
 };
