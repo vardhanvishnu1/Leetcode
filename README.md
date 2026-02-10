@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vardhanvishnu1/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vardhanvishnu1/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [3719-longest-balanced-subarray-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
 | ------- |
@@ -496,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
