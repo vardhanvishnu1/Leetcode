@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vardhanvishnu1/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vardhanvishnu1/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
 |  |
 | ------- |
@@ -500,8 +502,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
