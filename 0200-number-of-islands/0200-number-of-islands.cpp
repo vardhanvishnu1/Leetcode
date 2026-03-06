@@ -1,27 +1,35 @@
 class Solution {
 public:
-void dfs(int i,int j,int m,int n,vector<vector<char>>& grid,vector<vector<bool>>&visited){
-    if(i<0||j<0||i>=m||j>=n||visited[i][j]||grid[i][j]=='0') return ;
-    visited[i][j] = true;
-    dfs(i+1,j,m,n,grid,visited);
-    dfs(i-1,j,m,n,grid,visited);
-    dfs(i,j+1,m,n,grid,visited);
-    dfs(i,j-1,m,n,grid,visited);
-}
     int numIslands(vector<vector<char>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        int ans = 0;
-        vector<vector<bool>>visited(m,vector<bool>(n,false));
+        int ans =0;
+        int dir[4][2] = {{1,0},{-1,0},{0,1},{0,-1}};
         for(int i=0;i<m;i++){
-            for(int j = 0;j<n;j++){
+            for(int j =0;j<n;j++){
                 if(grid[i][j]=='0') continue;
-                else{
-                    if(!visited[i][j]){
-                        dfs(i,j,m,n,grid,visited);
-                        ans++;
+                ans++;
+                grid[i][j] = '0';
+                queue<pair<int,int>>q;
+                q.push({i,j});
+                while(!q.empty()){
+                    auto [ci,cj] = q.front();
+                    q.pop();
+                    for(int d =0;d<4;d++){
+                        int ni,nj;
+                        ni = ci + dir[d][0];
+                        nj = cj + dir[d][1];
+                        if(ni<0||nj<0||ni>=m||nj>=n||grid[ni][nj]=='0') continue;
+                        else{
+                            if(grid[ni][nj]=='1'){
+                                grid[ni][nj] = '0';
+                                q.push({ni,nj});
+                            }
+                            else{
+                                continue;
+                            }
+                        }
                     }
-                    else continue;
                 }
             }
         }
