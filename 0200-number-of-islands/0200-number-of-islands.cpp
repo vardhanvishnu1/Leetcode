@@ -18,8 +18,8 @@ void dfs(int i,int j,int m,int n,vector<vector<char>>& grid,vector<vector<bool>>
                 if(grid[i][j]=='0') continue;
                 else{
                     if(!visited[i][j]){
-                        ans++;
                         dfs(i,j,m,n,grid,visited);
+                        ans++;
                     }
                     else continue;
                 }
