@@ -5,8 +5,8 @@ public:
          vector<vector<int>>adj(numCourses);
         vector<int>inDegree(numCourses,0);
         for(int i=0;i<prerequisites.size();i++){
-            inDegree[prerequisites[i][1]]++;
-            adj[prerequisites[i][0]].push_back(prerequisites[i][1]);
+            inDegree[prerequisites[i][0]]++;
+            adj[prerequisites[i][1]].push_back(prerequisites[i][0]);
         }
         vector<int>ans;
         queue<int>q;
@@ -24,7 +24,7 @@ public:
             }
         }
         if(ans.size()!=numCourses) return {};
-        reverse(ans.begin(),ans.end());
+        //reverse(ans.begin(),ans.end());
         return ans;
     }
 };
