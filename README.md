@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vardhanvishnu1/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vardhanvishnu1/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vardhanvishnu1/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3713-longest-balanced-substring-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Stack
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vardhanvishnu1/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vardhanvishnu1/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vardhanvishnu1/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0940-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vardhanvishnu1/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Heap (Priority Queue)
