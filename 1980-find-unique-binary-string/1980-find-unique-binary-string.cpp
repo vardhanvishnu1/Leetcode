@@ -1,7 +1,7 @@
 class Solution {
 public:
     string generate(int sz,int mx_sz,string curr,set<string>&s){
-        // if(sz>mx_sz) return "";
+        if(sz>mx_sz) return "";
         if(sz==mx_sz){
             if(s.find(curr)==s.end()) return curr;
             return "";
