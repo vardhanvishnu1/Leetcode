@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/vardhanvishnu1/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vardhanvishnu1/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/vardhanvishnu1/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vardhanvishnu1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vardhanvishnu1/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/vardhanvishnu1/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/vardhanvishnu1/Leetcode/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vardhanvishnu1/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/vardhanvishnu1/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/vardhanvishnu1/Leetcode/tree/master/1036-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vardhanvishnu1/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
