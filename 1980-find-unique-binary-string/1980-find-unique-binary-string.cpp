@@ -8,8 +8,8 @@ public:
         }
         string x = generate(sz+1,mx_sz,curr+"0",s);
         if(x!="") return x;
-        x = generate(sz+1,mx_sz,curr+"1",s);
-        if(x!="") return x;
+        string y = generate(sz+1,mx_sz,curr+"1",s);
+        if(y!="") return y;
         return "";
     }
     string findDifferentBinaryString(vector<string>& nums) {
