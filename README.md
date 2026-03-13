@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vardhanvishnu1/Leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vardhanvishnu1/Leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/vardhanvishnu1/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vardhanvishnu1/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/vardhanvishnu1/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/vardhanvishnu1/Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/vardhanvishnu1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanvishnu1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vardhanvishnu1/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/vardhanvishnu1/Leetcode/tree/master/0455-assign-cookies) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
