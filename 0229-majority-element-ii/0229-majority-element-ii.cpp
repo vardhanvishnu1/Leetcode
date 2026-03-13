@@ -7,10 +7,10 @@ public:
         int can1 = -1;
         int can2 = -1;
         for(int i=0;i<n;i++){
-          if(nums[i]==can1){
+          if(nums[i]==can1&&nums[i]!=can2){
             cnt1++;
           }
-          else if(nums[i]==can2){
+          else if(nums[i]==can2&&nums[i]!=can1){
             cnt2++;
           }
           else if(cnt1==0){
