@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vardhanvishnu1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/vardhanvishnu1/Leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/vardhanvishnu1/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/vardhanvishnu1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/vardhanvishnu1/Leetcode/tree/master/0200-number-of-islands) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vardhanvishnu1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/vardhanvishnu1/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vardhanvishnu1/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
