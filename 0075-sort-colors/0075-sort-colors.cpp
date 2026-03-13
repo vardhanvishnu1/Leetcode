@@ -5,7 +5,7 @@ public:
         int lo =0;
         int mid =0;
         int hi = n-1;
-        while(mid<hi){
+        while(mid<=hi){
             if(nums[mid]==0){
                 swap(nums[mid],nums[lo]);
                 lo++;mid++;
