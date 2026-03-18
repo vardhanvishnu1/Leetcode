@@ -1,36 +1,45 @@
 class Solution {
 public:
-    int findFirst(vector<int>& nums, int target) {
-        int lo = 0, hi = nums.size() - 1, ans = -1;
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] == target) {
-                ans = mid;
-                hi = mid - 1; // keep searching left
+int lower(vector<int>& nums, int target){
+    int n =nums.size();
+        int  lo=0;
+        int hi =n-1;
+        int st = -1;
+        int mid;
+        while(lo<=hi){
+            mid = lo + (hi-lo)/2;
+            if(nums[mid]==target){
+                st = mid;hi=mid-1;
             }
-            else if (nums[mid] < target) lo = mid + 1;
-            else hi = mid - 1;
+            else if(nums[mid]>target) hi = mid-1;
+            else lo = mid+1;
         }
-        return ans;
-    }
+        return st;
+}
 
-    int findLast(vector<int>& nums, int target) {
-        int lo = 0, hi = nums.size() - 1, ans = -1;
-        while (lo <= hi) {
-            int mid = lo + (hi - lo) / 2;
-            if (nums[mid] == target) {
-                ans = mid;
-                lo = mid + 1; // keep searching right
+int upper(vector<int>& nums, int target){
+    int n =nums.size();
+        int  lo=0;
+        int hi =n-1;
+        int end = -1;
+        int mid;
+        while(lo<=hi){
+            mid = lo + (hi-lo)/2;
+            if(nums[mid]==target){
+                end = mid;lo = mid+1;
             }
-            else if (nums[mid] < target) lo = mid + 1;
-            else hi = mid - 1;
+            else if(nums[mid]>target) hi = mid-1;
+            else lo = mid+1;
         }
-        return ans;
-    }
+        return end;
+}
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        int first = findFirst(nums, target);
-        int last = findLast(nums, target);
-        return {first, last};
+        int n =nums.size();
+        int  lo=0;
+        int hi =n-1;
+        int st=-1,end=-1;
+        st = lower(nums,target);end = upper(nums,target);
+        return {st,end};
     }
 };
