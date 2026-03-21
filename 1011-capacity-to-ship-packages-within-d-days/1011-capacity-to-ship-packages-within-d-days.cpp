@@ -4,7 +4,6 @@ public:
         int cnt = 1;
         int cur = 0;
         for(int i=0;i<nums.size();i++){
-            if(nums[i]>mid) return false;
             cur+=nums[i];
             if(cur>mid) {cnt++;cur=nums[i];}
         }
