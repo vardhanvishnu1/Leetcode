@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/vardhanvishnu1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vardhanvishnu1/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vardhanvishnu1/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vardhanvishnu1/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Dynamic Programming
