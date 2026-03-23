@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/vardhanvishnu1/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0402-remove-k-digits) |
+| [0796-rotate-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vardhanvishnu1/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -635,4 +636,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/vardhanvishnu1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0210-course-schedule-ii) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
