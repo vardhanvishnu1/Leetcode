@@ -1,30 +1,25 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        // 1. Reverse the whole string
-        reverse(s.begin(), s.end());
+        string ans = "";
+        int i = s.size() - 1;
 
-        int n = s.size();
-        int idx = 0; // Where we are writing the "clean" string
+        while (i >= 0) {
+            // 1. Skip trailing/intermediate spaces
+            while (i >= 0 && s[i] == ' ') i--;
+            if (i < 0) break;
 
-        for (int start = 0; start < n; ++start) {
-            if (s[start] != ' ') {
-                // Add a space before the next word (but not the very first word)
-                if (idx != 0) s[idx++] = ' ';
+            // 2. Find the end of the word
+            int j = i;
+            while (i >= 0 && s[i] != ' ') i--;
 
-                // Find the end of the current word
-                int end = start;
-                while (end < n && s[end] != ' ') s[idx++] = s[end++];
-
-                // Reverse the word back to its original order
-                reverse(s.begin() + idx - (end - start), s.begin() + idx);
-
-                // Move start to the end of the word
-                start = end;
+            // 3. Extract the word and add to answer
+            if (ans.empty()) {
+                ans = s.substr(i + 1, j - i);
+            } else {
+                ans += " " + s.substr(i + 1, j - i);
             }
         }
-        // Trim the original string to the new correct length
-        s.erase(s.begin() + idx, s.end());
-        return s;
+        return ans;
     }
 };
