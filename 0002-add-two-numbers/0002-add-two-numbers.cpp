@@ -10,56 +10,31 @@
  */
 class Solution {
 public:
-    ListNode* rev(ListNode* head){
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-        ListNode* nxt ;
-        while(curr){
-            nxt = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr=nxt;
-        }
-        return prev;
-    }
-
-    int length(ListNode* head){
-        int sz =0;
-        while(head){
-            head = head->next;
-            sz++;
-        }
-        return sz;
-    }
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-       ListNode* head = l1;
-        ListNode* prev = nullptr;
-        int carry = 0;
-        
-        while (l1 != nullptr || l2 != nullptr || carry != 0) {
-            int sum = carry;
-            
-            if (l1 != nullptr) {
-                sum += l1->val;
+        ListNode* t1 = l1;
+        ListNode* t2 = l2;
+        ListNode* prev = NULL;
+        bool flag = false;
+        while(t1||t2){
+            int curr =0;
+            if(t1) curr+=t1->val;
+            if(t2) curr+=t2->val;
+            if(flag){curr++;flag = false;}
+            if(t1){
+                t1->val = curr%10;
             }
-            
-            if (l2 != nullptr) {
-                sum += l2->val;
-                l2 = l2->next;
+            else{
+                prev->next = new ListNode(curr%10);
+                t1 = prev->next;
             }
-            
-            if (l1 == nullptr) {
-                prev->next = new ListNode(sum % 10);
-                l1 = prev->next;
-            } else {
-                l1->val = sum % 10;
-            }
-            
-            carry = sum / 10;
-            prev = l1;
-            if (l1 != nullptr) l1 = l1->next;
-        }  
-        return head;
-
+            if(curr>9) flag = true;
+            prev = t1;
+            if(t1) t1 = t1->next;
+            if(t2) t2 = t2->next;
+        }
+        if(flag){
+            prev->next = new ListNode(1);
+        }
+        return l1;
     }
 };
