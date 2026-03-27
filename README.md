@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/vardhanvishnu1/Leetcode/tree/master/0401-binary-watch) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vardhanvishnu1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vardhanvishnu1/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/vardhanvishnu1/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
