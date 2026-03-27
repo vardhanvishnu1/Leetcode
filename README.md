@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vardhanvishnu1/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/vardhanvishnu1/Leetcode/tree/master/2050-count-good-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vardhanvishnu1/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Bit Manipulation
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/vardhanvishnu1/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/vardhanvishnu1/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/vardhanvishnu1/Leetcode/tree/master/2643-row-with-maximum-ones) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vardhanvishnu1/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/vardhanvishnu1/Leetcode/tree/master/0735-asteroid-collision) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
