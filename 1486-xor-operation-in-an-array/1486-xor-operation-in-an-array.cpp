@@ -9,8 +9,8 @@ public:
     }
 
     int xorOperation(int n, int start) {
-        int x = start;
-        start>>=1;
-        return ((xor_(start-1)^xor_(start+n-1))<<1)|((x&1)&(n&1));
+        int s = start;
+        s>>=1;
+        return ((xor_(s-1)^xor_(s+n-1))<<1)|((start&1)&(n&1));
     }
 };
