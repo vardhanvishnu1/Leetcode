@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vardhanvishnu1/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1903-largest-odd-number-in-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/vardhanvishnu1/Leetcode/tree/master/2050-count-good-numbers) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/vardhanvishnu1/Leetcode/tree/master/0401-binary-watch) |
 | [1009-complement-of-base-10-integer](https://github.com/vardhanvishnu1/Leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
