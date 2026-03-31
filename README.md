@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vardhanvishnu1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/vardhanvishnu1/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vardhanvishnu1/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/vardhanvishnu1/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0229-majority-element-ii) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -685,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vardhanvishnu1/Leetcode/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
