@@ -1,43 +1,50 @@
 class MinStack {
 public:
-stack<long long>st;
- long long mn ;
+    // Good call on long long to prevent overflow
+    stack<long long> st;
+    long long mn;
+
     MinStack() {
         mn = LLONG_MAX;
     }
     
     void push(int val) {
-        if(st.size()==0){
+        if (st.empty()) {
             st.push(val);
-            mn =val;
-            return;
-        }
-        if(val<mn){
-            st.push(2LL*val-mn);
             mn = val;
             return;
         }
-        st.push(val);
-        return;
+        if (val < mn) {
+            // The encoded value is always less than the new mn
+            st.push(2LL * val - mn);
+            mn = val;
+        } else {
+            st.push(val);
+        }
     }
     
     void pop() {
-        if(st.top()<mn){
-            mn = 2*mn-st.top();
+        if (st.empty()) return;
+
+        if (st.top() < mn) {
+            // Restore: prev_min = 2 * current_min - flag_value
+            mn = 2 * mn - st.top();
         }
         st.pop();
     }
     
     int top() {
-       if(st.top()<mn){return mn;}
-       return  st.top();
+        // If top is the encoded flag, the actual value is current mn
+        if (st.top() < mn) {
+            return (int)mn; 
+        }
+        return (int)st.top();
     }
     
     int getMin() {
-        return mn;
+        return (int)mn;
     }
 };
-
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack* obj = new MinStack();
