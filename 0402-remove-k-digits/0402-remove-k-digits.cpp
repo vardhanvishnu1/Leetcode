@@ -1,28 +1,24 @@
 class Solution {
 public:
     string removeKdigits(string num, int k) {
-        string st = "";  // use string as stack
-
+        string res = ""; // Using string as a stack for efficiency
         for (char c : num) {
-            while (!st.empty() && k > 0 && st.back() > c) {
-                st.pop_back();
+            // While the current digit is smaller than the last added digit, pop it
+            while (!res.empty() && res.back() > c && k > 0) {
+                res.pop_back();
                 k--;
             }
-            st.push_back(c);
+            
+            // Avoid leading zeros unless the result is empty
+            if (!res.empty() || c != '0') {
+                res.push_back(c);
+            }
         }
-
-        // If k > 0, remove from end
-        while (k > 0 && !st.empty()) {
-            st.pop_back();
+        // If k > 0, remove digits from the end (the largest digits in our monotonic stack)
+        while (!res.empty() && k > 0) {
+            res.pop_back();
             k--;
         }
-
-        // Remove leading zeros
-        int idx = 0;
-        while (idx < st.size() && st[idx] == '0') idx++;
-
-        string ans = st.substr(idx);
-
-        return ans.empty() ? "0" : ans;
+        return res.empty() ? "0" : res;
     }
 };
