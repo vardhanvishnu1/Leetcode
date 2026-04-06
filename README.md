@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vardhanvishnu1/Leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardhanvishnu1/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0792-binary-search) |
+| [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/vardhanvishnu1/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/vardhanvishnu1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vardhanvishnu1/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/vardhanvishnu1/Leetcode/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
