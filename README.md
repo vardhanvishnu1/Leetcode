@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vardhanvishnu1/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vardhanvishnu1/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/vardhanvishnu1/Leetcode/tree/master/0901-online-stock-span) |
+| [2069-walking-robot-simulation-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
 |  |
 | ------- |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/vardhanvishnu1/Leetcode/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
