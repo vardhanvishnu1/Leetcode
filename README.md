@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/vardhanvishnu1/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/vardhanvishnu1/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/vardhanvishnu1/Leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vardhanvishnu1/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
