@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/vardhanvishnu1/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vardhanvishnu1/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1306-jump-game-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1306-jump-game-iii) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vardhanvishnu1/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1539-kth-missing-positive-number) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/vardhanvishnu1/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1306-jump-game-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vardhanvishnu1/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Design
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/vardhanvishnu1/Leetcode/tree/master/1036-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/vardhanvishnu1/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1306-jump-game-iii) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/vardhanvishnu1/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vardhanvishnu1/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
