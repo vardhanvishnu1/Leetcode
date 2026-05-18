@@ -51,14 +51,11 @@ public:
                         q.push(next);
                     }
                 }
-
                 // IMPORTANT optimization
-                mp[arr[idx]].clear();
+                 mp[arr[idx]].clear();
             }
-
             steps++;
         }
-
         return -1;
     }
 };
