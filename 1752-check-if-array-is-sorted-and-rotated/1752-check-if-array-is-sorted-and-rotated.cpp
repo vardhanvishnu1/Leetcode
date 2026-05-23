@@ -1,11 +1,12 @@
 class Solution {
 public:
-    bool check(vector<int>& nums) {
+    bool check(vector<int>& a) {
+        int n = a.size();
         int cnt =0;
-        int n = nums.size();
         for(int i=0;i<n;i++){
-            if(nums[i]>nums[(i+1)%n]) cnt++;
+            if(a[i]>a[(i+1)%n]) cnt++;
         }
-        return cnt<=1;
+        if(cnt<=1) return true;
+        return false;
     }
 };
