@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0792-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/vardhanvishnu1/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vardhanvishnu1/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/vardhanvishnu1/Leetcode/tree/master/1345-jump-game-iv) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vardhanvishnu1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0904-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
