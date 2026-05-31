@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/vardhanvishnu1/Leetcode/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vardhanvishnu1/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0792-binary-search) |
+| [0860-lemonade-change](https://github.com/vardhanvishnu1/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/vardhanvishnu1/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/vardhanvishnu1/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/vardhanvishnu1/Leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/vardhanvishnu1/Leetcode/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/vardhanvishnu1/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
