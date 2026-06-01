@@ -1,22 +1,26 @@
 class Solution {
 public:
-bool solve(vector<vector<int>>&dp,int n,int cnt,int idx,string s){
-    if(cnt<0) return false;
-    if(idx>=n){
-        if(cnt==0) return true;
-        return false;
-    }
-    if(dp[idx][cnt]!=-1) return dp[idx][cnt];
-    bool ans =false;
-    if(s[idx]=='*'){
-        return dp[idx][cnt] = solve(dp,n,cnt-1,idx+1,s)||solve(dp,n,cnt+1,idx+1,s)||solve(dp,n,cnt,idx+1,s);
-    }
-    if(s[idx]=='(') return dp[idx][cnt] = solve(dp,n,cnt+1,idx+1,s);
-    if(s[idx]==')') return dp[idx][cnt] = solve(dp,n,cnt-1,idx+1,s);
-    return true;
-}
     bool checkValidString(string s) {
-        vector<vector<int>>dp(s.size(),vector<int>(s.size(),-1));
-        return solve(dp,s.size(),0,0,s);
+        int n = s.size();
+        int mx = 0;
+        int mn = 0;
+        int cnt = 0;
+        for(int i=0;i<n;i++){
+            if(s[i]=='('){
+                mn+=1;
+                mx+=1;
+            }
+            else if(s[i]==')'){
+                mn-=1;
+                mx-=1;
+            }
+            else{
+                mn-=1;
+                mx+=1;
+            }
+            if(mn<0) mn = 0;
+            if(mx<0) return false;
+        }
+        return mn==0;
     }
 };
