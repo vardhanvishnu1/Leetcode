@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/vardhanvishnu1/Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3637-trionic-array-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/vardhanvishnu1/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2540-minimum-common-value](https://github.com/vardhanvishnu1/Leetcode/tree/master/2540-minimum-common-value) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vardhanvishnu1/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/vardhanvishnu1/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/vardhanvishnu1/Leetcode/tree/master/2540-minimum-common-value) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -589,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Quickselect
 |  |
 | ------- |
