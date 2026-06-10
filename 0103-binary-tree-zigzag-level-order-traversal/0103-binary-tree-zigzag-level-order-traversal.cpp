@@ -11,32 +11,30 @@
  */
 class Solution {
 public:
- void levelOrderTraversal(TreeNode* root,vector<vector<int>>&ans){
-        queue<TreeNode*>q;
-        q.push(root); 
-        bool flag = true;
-        while(!q.empty()){
-            int size = q.size();
-            vector<int>level(size);
-            for(int i=0;i<size;i++){
-                TreeNode* curr = q.front();
-                q.pop();
-                int idx;
-                if (flag) idx = i;
-                else idx = size - i - 1;
-                level[idx]=(curr->val);
-                if(curr->left) q.push(curr->left);
-                if(curr->right) q.push(curr->right);
-            }
-            flag = !flag;
-            ans.push_back(level);
-        }
-        return;
-    }
+
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        if(!root) return {};
-        vector<vector<int>>ans;
-        levelOrderTraversal(root,ans);
-        return ans;
+        
+       queue<TreeNode*> q;
+vector<vector<int>> levels;
+if(!root) return levels;
+q.push(root);
+
+while(!q.empty()){
+    int sz = q.size();
+    vector<int> level;
+
+    while(sz--){
+        TreeNode* node = q.front();
+        q.pop();
+
+        level.push_back(node->val);
+
+        if(node->left) q.push(node->left);
+        if(node->right) q.push(node->right);
+    }
+    if(levels.size()&1) reverse(level.begin(),level.end());
+    levels.push_back(level);
+}
+return levels;
     }
 };
