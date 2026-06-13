@@ -11,15 +11,14 @@
  */
 class Solution {
 public:
-bool solve(TreeNode* p ,TreeNode* q ){
-        if(!p||!q){
-            return p==q;
-        }
-        return (p->val==q->val)&&solve(p->left,q->right)&&solve(p->right,q->left);
-}
+    bool solve(TreeNode* l,TreeNode* r){
+        if(!l&&!r) return true;
+        if((!l&&r)||(!r&&l)) return false;
+        if(l->val!=r->val) return false;
+        bool ans =  solve(l->left,r->right)&&solve(l->right,r->left);
+        return ans;
+    }
     bool isSymmetric(TreeNode* root) {
-        TreeNode* p = root->left;
-        TreeNode* q  = root->right;
-        return solve(p,q);
+        return solve(root->left,root->right);
     }
 };
