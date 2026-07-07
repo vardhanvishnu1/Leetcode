@@ -23,13 +23,12 @@ public:
                 ans.push_back(matrix[d][i]);
             }
             d--;
-            if(u>d) break;
+            //if(u>d) break;
             for(int i=d;i>=u;i--){
                 ans.push_back(matrix[i][l]);
             }
             l++;
-            if(l>r) break;
-            // if()
+            // if(l>r) break;
         }
         return ans;
     }
