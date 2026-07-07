@@ -27,10 +27,10 @@ public:
         count1 =0;count2=0;
         for(int i=0;i<n;i++){
             if(nums[i]==candidate1) count1++;
-            if(nums[i]==candidate2) count2++;
+            else if(nums[i]==candidate2) count2++;
         }
         if(count1>n/3) ans.push_back(candidate1);
-        if(count2>n/3&&candidate1!=candidate2) ans.push_back(candidate2);
+        if(count2>n/3) ans.push_back(candidate2);
         return ans;
     }
 };
