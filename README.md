@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/vardhanvishnu1/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/vardhanvishnu1/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vardhanvishnu1/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1143-longest-common-subsequence](https://github.com/vardhanvishnu1/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/vardhanvishnu1/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/vardhanvishnu1/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
