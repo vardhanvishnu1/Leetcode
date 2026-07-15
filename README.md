@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vardhanvishnu1/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/vardhanvishnu1/Leetcode/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/vardhanvishnu1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/vardhanvishnu1/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/0179-largest-number) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/vardhanvishnu1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/vardhanvishnu1/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/vardhanvishnu1/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vardhanvishnu1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/vardhanvishnu1/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vardhanvishnu1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
