@@ -8,7 +8,7 @@ public:
     //         int nb = solve(i+1,1,prices,dp);
     //         return dp[i][buy] = max(b,nb);
     //     }
-    //     else{
+    //     else
     //         int sell = prices[i];
     //         int not_sell = solve(i+1,0,prices,dp);
     //         return dp[i][buy] = max(sell,not_sell);
