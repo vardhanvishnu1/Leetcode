@@ -10,6 +10,7 @@ public:
 //         }
 //         else{
 //             int sell = prices[i]+solve(i+1,1,prices,dp);
+                // max(solve(i+1,1,prices,dp),solve(i,1,prices,dp))
 //             int not_sell = solve(i+1,0,prices,dp);
 //             return dp[i][buy] = max(sell,not_sell);
 //         }
@@ -20,14 +21,14 @@ public:
         int n = prices.size();
         vector<vector<int>>dp(n+1,vector<int>(2,0));
         for(int i=n-1;i>=0;i--){
-            for(int j = 0;j<2;j++){
-                if(j){
-                    dp[i][j] = max(-prices[i]+dp[i+1][0],dp[i+1][1]);
-                }
-                else{
-                    dp[i][j] = max(dp[i+1][0],prices[i]+dp[i+1][1]);
-                }
-            }
+            // for(int j = 0;j<2;j++){
+               
+                    dp[i][1] = max(-prices[i]+dp[i+1][0],dp[i+1][1]);
+               
+              
+                    dp[i][0] = max(dp[i+1][0],prices[i]+dp[i+1][1]);
+                
+            //}
         }
         return dp[0][1];
     }
