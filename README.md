@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vardhanvishnu1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0204-count-primes) |
+| [0292-nim-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vardhanvishnu1/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vardhanvishnu1/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -951,4 +952,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vardhanvishnu1/Leetcode/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
