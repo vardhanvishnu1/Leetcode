@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/vardhanvishnu1/Leetcode/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/vardhanvishnu1/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vardhanvishnu1/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vardhanvishnu1/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vardhanvishnu1/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/vardhanvishnu1/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/vardhanvishnu1/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/vardhanvishnu1/Leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/vardhanvishnu1/Leetcode/tree/master/1922-count-good-numbers) |
 | [2050-count-good-numbers](https://github.com/vardhanvishnu1/Leetcode/tree/master/2050-count-good-numbers) |
 ## Array
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/vardhanvishnu1/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/vardhanvishnu1/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/vardhanvishnu1/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vardhanvishnu1/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/vardhanvishnu1/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/vardhanvishnu1/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vardhanvishnu1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0518-coin-change-ii) |
@@ -978,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/vardhanvishnu1/Leetcode/tree/master/0486-predict-the-winner) |
 ## Database
 |  |
 | ------- |
