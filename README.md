@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vardhanvishnu1/Leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/vardhanvishnu1/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vardhanvishnu1/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vardhanvishnu1/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/vardhanvishnu1/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/vardhanvishnu1/Leetcode/tree/master/1448-maximum-69-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/vardhanvishnu1/Leetcode/tree/master/0860-lemonade-change) |
 | [0874-walking-robot-simulation](https://github.com/vardhanvishnu1/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/vardhanvishnu1/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/vardhanvishnu1/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/vardhanvishnu1/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/vardhanvishnu1/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/vardhanvishnu1/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0943-sum-of-subarray-minimums](https://github.com/vardhanvishnu1/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1092-shortest-common-supersequence](https://github.com/vardhanvishnu1/Leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/vardhanvishnu1/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vardhanvishnu1/Leetcode/tree/master/0877-stone-game) |
 ## Database
 |  |
 | ------- |
