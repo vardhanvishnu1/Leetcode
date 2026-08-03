@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vardhanvishnu1/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/vardhanvishnu1/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vardhanvishnu1/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1854-maximum-population-year](https://github.com/vardhanvishnu1/Leetcode/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vardhanvishnu1/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vardhanvishnu1/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vardhanvishnu1/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vardhanvishnu1/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/vardhanvishnu1/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/vardhanvishnu1/Leetcode/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/vardhanvishnu1/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/vardhanvishnu1/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/vardhanvishnu1/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -937,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vardhanvishnu1/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vardhanvishnu1/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/vardhanvishnu1/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1854-maximum-population-year](https://github.com/vardhanvishnu1/Leetcode/tree/master/1854-maximum-population-year) |
 | [3713-longest-balanced-substring-i](https://github.com/vardhanvishnu1/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Topological Sort
 |  |
